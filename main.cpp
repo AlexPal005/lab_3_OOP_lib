@@ -52,12 +52,8 @@ int main()
             cout << matrix_a << endl;
             cout << "Дорiвнює :"<<matrix_a.max() << endl;
 
-        case 6:
-            cout << "Найбiльший елемент матрицi:" << endl;
-            cout << matrix_a << endl;
-            cout << "Дорiвнює :" << solve(matrix_a) << endl;
             
-        }
+        
  return 0;
  
 }
